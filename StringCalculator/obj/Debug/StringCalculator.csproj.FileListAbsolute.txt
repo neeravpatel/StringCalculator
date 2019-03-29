@@ -1,0 +1,5 @@
+D:\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+D:\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+D:\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+D:\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb

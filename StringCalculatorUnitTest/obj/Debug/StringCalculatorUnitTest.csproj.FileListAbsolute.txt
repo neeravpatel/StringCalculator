@@ -1,0 +1,7 @@
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csprojResolveAssemblyReference.cache
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.dll
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.pdb
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.exe
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.pdb
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.dll
+D:\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.pdb
