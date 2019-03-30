@@ -5,3 +5,14 @@ D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.e
 D:\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.pdb
 D:\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.dll
 D:\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.pdb
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.dll
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculatorUnitTest.pdb
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.exe
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.pdb
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\bin\Debug\StringCalculator.exe.config
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csprojAssemblyReference.cache
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.csproj.CopyComplete
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.dll
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculatorUnitTest\obj\Debug\StringCalculatorUnitTest.pdb

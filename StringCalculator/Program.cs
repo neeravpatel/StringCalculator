@@ -1,15 +1,23 @@
-﻿using System;
+﻿
+
+using System;
 using System.Collections.Generic;
 
 namespace StringCalculatorNamespace
 {
+    /// <summary>
+    /// Class that hold the functions to Add number string
+    /// </summary>
     public class StringCalculator
     {
         static void Main(string[] args)
         {
-
+            //local parameter
             string number = "";
             List<string> numbers = new List<string> { };
+
+            Console.WriteLine("Enter you number string:");
+
             do
             {
                 number = Console.ReadLine()+Environment.NewLine;
@@ -17,6 +25,8 @@ namespace StringCalculatorNamespace
 
             } while (number != Environment.NewLine);
 
+
+            //Calling AD function
             StringCalculator sc = new StringCalculator();
             int result = sc.Add(numbers);
 
@@ -28,6 +38,11 @@ namespace StringCalculatorNamespace
 
         }
 
+        /// <summary>
+        /// Function to add numbers in string 
+        /// </summary>
+        /// <param name="numbers"></param>
+        /// <returns></returns>
         public int Add(List<string> numbers)
         {
             int result = 0;
@@ -41,6 +56,7 @@ namespace StringCalculatorNamespace
             {
                 if (str != "\r\n")
                 {
+                    //This will find all the delimiter and store it in string array
                     if (str.StartsWith(controlcode))
                     {
                         string tstr = str.Remove(0, 2).Remove(str.Length - 4, 2);

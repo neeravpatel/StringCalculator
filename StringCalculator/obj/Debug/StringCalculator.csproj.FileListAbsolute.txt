@@ -3,3 +3,9 @@ D:\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
 D:\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
 D:\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
 D:\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\Nick Patel\Documents\GitHub\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
